@@ -8,19 +8,19 @@ query to other search engines (such as Google, Bing, and Yahoo) in addition to o
 sources. Then they retrieve the results, rank them, and present the final output to you
 through their web interface
 
-* [eTools](www.etools.ch/search.do)<br>
+* [eTool](https://www.etools.ch/search.do)<br>
     compiles its results from major
     international search engines, preserving user privacy by not collecting or sharing personal 
     information about its users
 * [alltheinternet](https://www.alltheInternet.com)<br>
     queries major  search engines including shopping sites like Amazon and eBay.
-* [Fagan Finder](www.faganfinder.com/engines)<br>
+* [Fagan Finder](https://www.faganfinder.com/)<br>
     queries the major search engines as well as answer engines and question-and-answer
     sites and blogs. 
-* [izitto](www.izito.com )<br>
+* [izitto](https://www.izito.com/)<br>
     aggregates data from multiple sources (Yahoo, Bing, Wikipedia, YouTube, and others) 
     to generate optimal results that include images, videos, news, and articles
-* [Metacrawler](www.metacrawler.com)<br>
+* [Metacrawler](https://metacrawler.com)<br>
     aggregates results from Google and Yahoo.
 * [My All Search](https://www.myallsearch.com)<br>
     aggregates results through Bing, DuckDuckGo, AOL Search, Ask, Oscobo, Mojeek,
@@ -28,7 +28,7 @@ through their web interface
 * [Carrot2](http://search.carrot2.org/)<br>
     aggregates results from the Google API, Bing API, eTools Meta Search, Lucene,
     SOLR, and more. It organizes results into thematic categories (circles and foam trees) 
-* [elocafinder](www.elocalfinder.com/HSearch.aspx)<br>
+* [elocafinder](https://elocalfinder.com/HSearch.aspx)<br>
     fetches results from Google, Yahoo, Ask, and Bing and displays them in a table for
     comparison along with the overall ranking.
 * [Opentext](http://fqs.opentext.com/web.htm)<br>
@@ -42,12 +42,11 @@ through their web interface
 to search for a snippet of code (for example, to reconstruct embedded software). 
 
 * [Searchcode](https://searchcode.com)<br>
-    searches Google code, GitHub, Bitbucket, CodePlex, Sourceforge, Fedora Project, and
-    GitLab
+    searches Google code, GitHub, Bitbucket, CodePlex, Sourceforge, and more
 * [Nerdaydata](https://nerdydata.com/search)<br>
     requires a monthly subscription to unlock all features.
-* [Krugle](www.krugle.org)
-* [Codase](www.codase.com)<br>
+* [Krugle](https://krugle.org)
+* [Codase](https://codase.com)<br>
     searches 250 million lines of code.
 * [O'reilly Source Code](http://labs.oreilly.com)<br>
     gives access to all code snippets in O’Reilly books.
@@ -60,9 +59,6 @@ to search for a snippet of code (for example, to reconstruct embedded software).
     credentials, and authentication tokens on different repositories. 
 
 ## FTP Search Engines
-When searching for contents on FTP servers using specialized FTP search engines,
-you are only searching for filenames and directories, as indexing all the content on
-all FTP servers is difficult and cannot be achieved easily. 
 
 * [Global File Search](http://globalfilesearch.com)
 * [Filemare](https://filemare.com/en-nl)
@@ -71,51 +67,42 @@ all FTP servers is difficult and cannot be achieved easily.
 
 
 ## Automated Search Tools
-Automated tools allow an online searcher to automate the search process using
-major search engines such as Google, Bing, and Shodan.
+Allow automate searching in several search engines like Google, Shodan, Bing, etc.
 
 * [SearchDiggity](https://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools.)<br>
-    This is the most well-known search engine hacking tool; it is a Windows GUI application
-    that connects you to famous search engines’ hacking databases such as the Google
-    Hacking Database
+    Most popular search engine hack tools and Can connect to Google Hacking Database.
 * [SearchDome](https://www.searchdome.com/)<br>
-    This is an online service that allows you to automate your search on eBay.com using a
-    wide array of search criteria
+    Online service that let you automate search on Ebay
 * [Jeviz](https://www.jeviz.com.)<br>
-    This is an Amazon advanced search engine currently focused on the United States; it
-    allows a user to search within an Amazon website and find deep links that are difficult to
-    locate using the typical Amazon search engine.
+    Amazon search engine and currently focus on America.
 
 ## IoT Device Search Engines
-There are many dedicated search engines for Internet-connected devices (known as IoT
-devices).
+Search all device that connect to internet like IoT.
 
 * [Shodan](https://www.shodan.io)<br>
-    Shodan is the world’s first search engine for Internet-connected devices
+    Most popular
 * [123Cam](http://123cam.com)<br>
-    This is a free webcam from different countries around the world.
+    This is a free webcam for around the world
 * [AirportWebcams](http://airportwebcams.net)<br>
-    This is the largest database of airport webcams (more than 1,800 webcams) from
-    different countries around the world.
+    Free airports webcam from around the world
 * [Insecam](www.insecam.org)<br>
-    This is a directory of online surveillance security cameras.
+    For online surveillance security cameras.
 * [Lookr](https://www.lookr.com)<br>
-    This lists live webcams from different places around the world.
+    List for webcam from popular place on earth
 * [Open Street Cam](https://www.openstreetcam.org/map)<br>
-    This lists street webcams from around the world.
+    List street webcam around the world
 * [Pictimo](https://www.pictimo.com)<br>
-    This lists street webcams from around the world.
+    List street webcam around the world
 * [Reolink](https://reolink.com/unsecured-ip-camera-list)<br>
-    This is a list of unsecured IP cameras.
+    List unsecured webcams
 * [Webcam-Network Project](www.the-webcam-network.com)<br>
-    This is a webcam directory
+    Webcams directory
 * [Thingful](https://www.thingful.net)<br>
-    This is a search engine for the Internet of Things.
+    Search engine for IoT
 
 
 ## Web Directories
-A web directory—also known as a subject directory—is a website that lists and organizes
-many sites into categories. We can consider it like a phone book. 
+Categorize all the things on the internet to directory
 
 * [DarknessGate](www.DarknessGate.com)
 * [DMOZ](http://dmoztools.net.)
@@ -126,52 +113,45 @@ many sites into categories. We can consider it like a phone book.
 * [01Webdirectory](www.01webdirectory.com)
 
 ## Translation Services
-There are many free online translation services to translate documents, text, and even whole websites
+Free translation services
 
 * [Google Translate](https://translate.google.com)
 * [Google Input Tools](https://www.google.com/inputtools/try)<br>
-    allows a user to enter text in any supported language using their
-    English (Latin) keyboard, and the text will get converted into its
-    native script
+    Allow to input text from different alphabet
 * [The Yamli Intelligent Arabic Keyboard](https://www.yamli.com/clavier-arabe)<br>
-    allows you to type in Arabic using Latin characters in a phonetic way, and the site
-    will transform it into Arabic words.
+    Allow type arabic language
 * [Apertium](https://www.apertium.org)<br>
-    is an open source machine translation platform.
+    Open source translation services
 * [Babylon](http://translation.babylon-software.com)<br>
-    This is a computer dictionary and translation program, developed by Babylon
-    Software Ltd. It offers translation in more than 800 language pairs.
+    Directory & translation service, provide with more than 800 languages.
 * [Bing Translator](https://www.bing.com/translator)
 * [Dictionary](http://translate.reference.com)
 * [Wiktionary](https://www.wiktionary.org)
 * [Free Translator](www.free-translator.com)
 * [No Slang](https://www.noslang.com)<br>
-    Translates text slang, Internet slang, and acronyms
+    Translate english, internet, and text slang
 * [Lexilogos](https://www.lexilogos.com/keyboard/index.htm)<br>
-    Supports a multilanguage keyboard
+    Multilanguage keyboard
 
 ## Website History and Website Capture
-Website capture is useful for online investigations because you can ensure that a snapshot of
-a given website will always remain online even if the original page disappears. 
+Capture and save website history for further analysis 
 
 * [Wayback Machine](https://archive.org/web/web.php)<br>
-     The most popular archive site
+     Most popular
 * [Archive](https://archive.fo/)
 * [Cached Pages](www.cachedpages.com/)<br>
-    Shows previous websites captured on three different archive websites (Google cache, Coral,
-    and Archive.org)
+    Show previous capture pages from several services like wayback machine, google.
 * [Screenshots](www.screenshots.com)<br>
-    Shows screenshot history for any website
+    Screenshot multi page
 * [Way Backpack](https://github.com/jsvine/waybackpack)<br>
-    Is a tool that allows you to download the entire Wayback Machine archive for a given web page.
+    To download wayback machine saved webpages
 * [Libary of Congress](https://loc.gov/websites)
 * [UK Web Archive](www.webarchive.org.uk/ukwa)
 * [Stanford Web Archive Portal](https://swap.stanford.edu)
 * [Oldweb.today](http://oldweb.today)<br>
-    Retrieves archived web pages from the different public Internet archives.
+    Get arhived webpages from several services.
 * [UK Government Web Archive](www.nationalarchives.gov.uk/webarchive/)<br>
-    Holds U.K. government web archives published on the Web since 1996 to the present.
-    The archived contents include videos, tweets, and web pages.
+    Store U.K goverment web archive
 
 ## Website Monitoring Services
 There are many online services that allow you to track an unlimited number of
