@@ -154,115 +154,96 @@ Capture and save website history for further analysis
     Store U.K goverment web archive
 
 ## Website Monitoring Services
-There are many online services that allow you to track an unlimited number of
-pages. This works by sending you an alert e-mail once a change is detected in the
-specific page (chosen by you). Some paid services allow you to receive SMS alerts also. 
+Website monitoring services works by sending you an alert email of changing website
+you track before. There are free and paid, paid service can send sms alert
 
 * [Google Alerts](https://www.google.com/alerts)
 * [Talk Walker](www.talkwalker.com/alerts)<br>
-    Is an alternative to Google Alerts.
+    Alternative to Google Alerts
 * [Visual Ping](https://visualping.io)<br>
-    Monitors web pages for any detected change, the free account gives you 62 checks per month.
 * [Follow That Page](https://www.followthatpage.com)<br>
-    Gives you two daily checks with the free account.
+    Gives two daily check for free acount
 * [Watch That Page](www.watchthatpage.com)<br>
-    Gives you 70 weekly checks on all your pages.
 * [Update Scanner](https://addons.mozilla.org/en-US/firefox/addon/update-scanner)<br>
-    Is a Firefox extension that monitors web pages for updates
+    Firefox extension for monitoring website
 
 
 ## News Websites
-There are many online news services that offer up-to-date information about all kinds of
-topics.
+Gives up-to-date news from around the wordl. Some very spesific to several country
+or topics
 
 * [1stHeadline](https://www.1stheadlines.com)<br>
-    This lists breaking news headline
+    List all breaking news 
 * [News Now](www.newsnow.co.uk)<br>
-    This lists latest news from around the world.
+    Latest news from around the world
 * [All You Can Read](www.allyoucanread.com)<br>
-    This website lists all major newspapers and news media in each country around the world
-    (usually list the top 30 sites).
+    List major newspaper from around the world
 * [Daily Earth](http://dailyearth.com/index.html)<br>
-    This is a global newspaper directory
+    Global newspaper
 * [Chroniclingamerica](https://chroniclingamerica.loc.gov/search/titles)<br>
-    Search U.S. Newspaper Directory
+    US newspaper
 * [Newspaper Map](http://newspapermap.com)
 * [World News](https://wn.com)<br>
-    A collection of world news aggregated from different sources.
 * [The Paperboy](https://www.thepaperboy.com/index.cfm)<br>
-    This aggregates news from major news agencies, lists all newspapers from
-    around the world, and shows the front page of major newspapers
-    from around the world.
+    Newspaper
 * [Site Intel Group](https://ent.siteintelgroup.com)<br>
-    This site specializes in news about ISIS and other Jihadist groups
+    For terorism, radical organization,etc
 * [Wordl Einnews](https://world.einnews.com/)<br>
-    Newspaper by country
+    Categorize news paper from country
 
 ## Fake News Detection
-There are many sites online that help you to figure out whether something is false
-news/information.
+Helping when determine is news is fake or real
 
 * [Snopes](https://www.snopes.com)<br>
-    Discovers false news, stories, and urban legends and researches/validates
-    rumors to see whether they are true
+    Discover false news
 * [Hoaxy](https://hoaxy.iuni.iu.edu)<br>
-    Checks the spread of false claims (like a hoax, rumor, satire, or news report) 
-    across social media sites. The site derives its results from reputable
-    fact-checking organizations to return the most accurate results.
+    Checks the spread of false claims across social media sites.
 * [FactCheck](www.factcheck.org/fake-news)<br>
-    Is partnered with Facebook to help identify and label fake news reported by its users.
-    It also monitors different media for the false information covering a
-    wide range of topics like health, science, and hoaxes spread through
-    spam e-mails.
+    Partnered with facebook, to check fake news was posted by user or groups in facebook
 * [ReportersLab](https://reporterslab.org/fact-checking)<br>
-    Gives a map of global fact-checking sites
+    See a map of global news checking
 * [Truth or Fiction](www.truthorfiction.com)<br>
-    Discovers fake news in different topics such as politics, nature,
-    health, space, crime, police and terrorism, and so on.
+    Discover fake topic from several categories like politic, science,etc
 * [Hoax-Slayer](www.hoax-slayer.com)<br>
-    Focuses on e-mail scams and social media hoaxes.
+    Focus on e-mail scams and social media hoaxes.
 * [Verification Handbook](http://verificationhandbook.com)<br>
-    Is a definitive guide to verifying digital content for emergency coverage
-    available in different languages
+    Definitive book for learn investigation the truth of information
 * [Verification Junkie](http://verificationjunkie.com)<br>
     Is a directory of tools for verifying, fact checking, and assessing the validity of
     eyewitness reports and user self-published content online
 * [Citizen Evidence](https://citizenevidence.org)<br>
-    Has tools and lessons to teach people how to authenticate user-generated
-    online contents. It is managed by Amnesty International.
+    Has tool and lessons to teach people how to authenticate user generated
+    online contents.
 * [InVID Verification Plugin](www.invid-project.eu/tools-andservices/invid-verification-plugin)<br>
     Supports both Mozilla Firefox and Chrome. This is a tool created by the InVID European
-    project to help journalists verify content on social networks.]
+    project to help journalists verify content on social networks.
 
 ## File Search Engines
-Some specialized search engines can query many file hosting sites.
+Searching spesific file acros internet
 
 * [Fagan Finder](www.faganfinder.com/filetype)<br>
-    is an old search engine but still works just fine to locate different file types online.
+    Old search engine but still works to locate different file types online.
 * [General Search](www.general-search.com)<br>
-    Allows you to search for different file types using 11 file-hosting websites. 
+    Allows to search for different file types using 11 file hosting websites. 
 * [ShareDir](https://sharedir.com)<br>
-    Lets you specify a file type and search more than 60 file-hosting sites simultaneously. 
-    The unique service offered by this site is that it allows you to download 500MB daily
+    Specify a file type and search more than 60 file-hosting sites simultaneously. 
 
 ## Gray Literature
-Includes books, journals, magazines, and anything that can be
-obtained publicly through traditional bookstore channels or academic publications.
+Includes books, journals, magazines.
 
 * [Academia](https://www.academia.edu)<br>
-    Is a platform for academics to share research papers—more than 19 million papers currently uploaded—covering all academic subjects.
+    Best platform for searching academic journal, article,etc
 * [Academic Index](www.academicindex.net)<br> 
-    Is a scholarly academic search engine that lists only selected sets of quality websites chosen by academics, librarians, educators, and library consortia
 * [Academic Torrents](http://academictorrents.com)<br>
-    is a community-maintained distributed repository for datasets and
+    Community-maintained distributed repository for datasets and
     scientific knowledge.
 * [American Doctoral Dissertations](www.opendissertations.com)<br>
-    Provides free access to more than 172,000 theses and dissertations
+    Gives free access to more than 172,000 theses and dissertations
     accepted by American universities since 1902 to the present.
 * [The Bielefeld Academic Search Engine](https://www.base-search.net/search/Advanced)<br>
-    Contains more than 100 million documents.
+    Gives more than 100 million documents.
 * [Archive Portal Europe](www.archivesportaleurope.net)<br>
-    Provides access to information on archival material from different European
+    Gives access to information on archival material from different European
     countries covering numerous topics (such as agriculture, health,
     justice, politics, and science).
 
@@ -292,9 +273,9 @@ obtained publicly through traditional bookstore channels or academic publication
 * [Imagebrief](www.imagebrief.com)
 * [Cam Finds App](http://camfindapp.com)
 * [Image Identification Project](https://www.imageidentify.com)<br>
-    This uses visual search technology to recognize uploaded images
+    This uses visual image recognition to identify face
 * [OSINT Combine Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer)<br>
-    Allows for google & yandex searching, tabulates imagery for efficient refiew
+    Allows for google & yandex searching, tabulates every imagery results for efficient refiew
 
 ## Image Text Translation
 * [Yandex Translate](https://translate.yandex.com/)<br>
@@ -303,30 +284,27 @@ obtained publicly through traditional bookstore channels or academic publication
 
 ## Image Forensic
 * [Forensically](https://29a.ch/photo-forensics/#forensicmagnifier)<br>
-    This site offers free tools for image forensics analysis, it
-    includes clone detection, error-level analysis, metadata extraction,
-    and more.
+    Offers free tools for image forensics analysis, it includes clone detection, 
+    error level analysis, metadata extraction, etc.
 * [Fotoforensics](http://fotoforensics.com)<br>
-    This offers the forensics analysis of JPEG and PNG files to
+    Offers the forensics analysis of JPEG and PNG files to
     check for any manipulation using error-level analysis (ELA) techniques.
 * [Ghiro](www.getghiro.org)<br>
-    This is an open source tool that can analyze images in bulk
-    and extract metadata information, use GPS metadata to search
-    for nearby images, and perform ELA to detect whether an image has been manipulated.
+    Open source tool that can analyze images in bulk and extract metadata information, 
+    use GPS metadata to search for nearby images, and perform ELA to detect whether 
+    an image has been manipulated.
 * [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool)
 * [Exif Search](https://www.exif-search.com)
-    This is a commercial search of images by using their metadata
+    Popular tools
 * [JPEGsnoop](www.impulseadventure.com/photo/jpeg-snoop.html)<br>
-    This analyzes the source of the image to test its authenticity.
+    Analyzes the source of the image to test its authenticity.
 * [GeoSetter](www.geosetter.de/en)<br> 
-  You can manipulate/view geodata—and other metadata information—of other images.
+  Can manipulate/view geodata—and other metadata information of other images.
 * [Lets Enhance](https://letsenhance.io)<br>
-    You can enhance a photo size without losing its quality. 
-    The free account allows for 14 images.
+    Can enhance a photo size without losing its quality. 
 
 ## OCR Tools
-The following are popular tools and web services for extracting text
-from images, known as optical character recognition (OCR):
+Extracting character or symbol in image
 
 * [FreeOCR](www.paperfile.net/index.html)
 * [Free Online OCR](www.i2ocr.com)
@@ -343,22 +321,22 @@ from images, known as optical character recognition (OCR):
 * [Internet archive open source movies](https://archive.org/details/opensource_movies)
 * [Live Leak](https://www.liveleak.com)
 * [Geo Search Tool](http://youtube.github.io/geo-search-tool/search.htm)<br>
-    This searches for all movies according to a specific query entered by the user. 
-    The result set will be further filtered according to the distance from a specific location
+    Searches for all movies according to a specific query entered by the user. 
+    The result will be further filtered according to the distance from a specific location
 
 ## Video Analysis
 * [Youtube Data](https://citizenevidence.amnestyusa.org)<br>
-     This is an online service that allows you to extract hidden information from
-     videos uploaded to YouTube
+     an online service that allows you to extract hidden information from
+     videos was uploaded to YouTube
 * [Ez Gif](https://ezgif.com/reverse-video)<br>
-    This is a reverse video search and offers many other useful video conversion tools.
+    a reverse video search tools and offers many other useful video conversion tools.
 * [Print Youtube Video](https://www.labnol.org/internet/printyoutube-video/28217/)<br>
-    To print a YouTube video storyboard, go to the link provided and add 
+    Print a YouTube video storyboard, go to the link provided and add 
     Print YouTube Video to the browser bookmark toolbar
 * [Video to Text Converter](www.360converter.com/conversion/video2TextConversion)<br>
-    This converts video/audio files into text.
+    Converts video/audio files into text.
 * [Montage](https://montage.storyful.com)<br>
-    This allows team collaborations for analyzing video content.
+    Allows team collaborations for analyzing video content.
 
 
 ## Social Media
@@ -379,23 +357,23 @@ investigation efforts. Services:
 
 ### General
 * [Buzz Sumo](http://buzzsumo.com)<br>
-    Find the most shared topic or subject that is currently trending 
+    Find & collecting the most shared topic or subject currently trending 
     on major social media platforms.
 * [Key Hole](http://keyhole.co)<br>
-    This offers hashtag and keyword tracking across different social
-    media sites; you can track Twitter accounts, mentions, and URLs.
+    Offers hashtag and keyword tracking across different social
+    media, you can track Twitter accounts, mentions, and URLs.
 
 ### Flicker
 * [Flicker map](https://www.flickr.com/map)<br>
-    View uploaded images on a map according to the uploader country of origin.
+    View uploaded images on a map according to the uploader account country of origin.
 * [My Pics map](www.mypicsmap.com)<br>
-    View Flickr photos on a Google map
+    View Flickr photos on a Google maps
 * [idGettr](https://www.webpagefx.com/tools/idgettr)<br>
-    Find the Flicker ID number (also works for groups).
+    Find the Flicker ID number/account (also works for groups).
 * [Flickr Hive Mind](http://flickrhivemind.net)<br>
-    This is a datamining tool for the Flickr database of photography.
+    a data mining tool for the Flickr database of photography.
 * [MIT PGP Public Key Server](http://pgp.mit.edu)<br>
-    Search on the PGP Public Key Server, which can reveal the target’s
+    Search on PGP Public Key Server, which can reveal the target’s
     email address. You can use it to conduct further investigations
     if a target uploaded their public key to such servers.
 
@@ -407,17 +385,16 @@ investigation efforts. Services:
 
 ### Facebook
 * [Lookup ID](https://lookup-id.com)<br>
-    This site helps you to find Facebook personal IDs. These IDs are 
+    Helps you to find Facebook personal IDs. These IDs are 
     necessary to conduct advanced searches using Facebook Graph Search.
 * [FindMyFbid](https://findmyfbid.com)<br>
-    Find your Facebook personal numeric ID.
+    Find Facebook personal numeric ID.
 * [Facebook Page Barometer](http://barometer.agorapulse.com)<br>
-    This site gives statistics and insight about specific Facebook profiles
-    or pages
+    Gives statistics and insight about specific Facebook profiles or pages
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)<br>
-    Conduct advanced searches on Facebook.
+    For conduct advanced searches on Facebook.
 * [LikeAlyzer](https://likealyzer.com)<br>
-    Analyze and monitor Facebook pages
+    Helping when analyze and monitor Facebook pages
 * [Facebook Live video search](https://www.facelive.org)<br>
     Showing live Facebook video braodcast.
 * [Wallflux](https://www.wallflux.com)<br>
@@ -430,55 +407,49 @@ investigation efforts. Services:
     This is a Facebook keyword search generator. It searches Facebook posts and
     limits the results to a specific date
 * [Signal](https://www.facebook.com/facebookmedia/get-started/signal)<br>
-    This service is used by journalists to collect relevant trends,
-    photos, videos, and posts from Facebook and Instagram to include
-    them in their media broadcasts.
+    Used by journalists to collect relevant trends, photos, videos, and
+    posts from Facebook and Instagram to include them in their media broadcasts.
 
 ### Twitter
 * [TweetDeck](https://tweetdeck.twitter.com)<br>
-    This is a social media dashboard application for managing Twitter accounts in a
-    web browser such as Chrome or Firefox
+    Social media dashboard application for managing Twitter accounts in Chrome or Firefox
 * [All My Tweets](https://www.allmytweets.net)<br>
     View all public tweets posted by any Twitter account on one page.
 * [Trendsmap](https://www.trendsmap.com)<br>
-    This shows you the most popular trends, hashtags, and keywords on Twitter from anywhere
+    Shows you the most popular trends, hashtags, and keywords on Twitter from anywhere
     around the world.
 * [Foller](http://foller.me)<br>
-    Analysis Twitter public account data (e.g. profile public information, number of tweets
+    Analyze Twitter public account data (e.g. profile public information, number of tweets
     and followers, topics, hashtags, mention).
 * [First Tweet](http://ctrlq.org/first/)<br>
-    Find the first tweet of any search keyword or link.
+    Find the first tweet of any search keyword or link or hashtag.
 * [Social Bearing](https://socialbearing.com/search/followers)<br>
-    Analyze Twitter followers of any particular account (a maximum of 10,000 followers can be loaded).
-* [Twitter Email Test](https://pdevesian.eu/tet)<br>
-    This tests whether an email address is used for a Twitter account
-* [Twicsy](http://twicsy.com/)<br>
-    Search more than 7,374,661,011 Twitter photos.
+    Analyze Twitter followers for any particular account.
 * [Follower Wonk](https://moz.com/followerwonk/analyze)<br>
-    Analyze a Twitter user’s followers.
+    Analyze a Twitter user’s followers. For private account, you must follow them first
 * [Sleeping Time](http://sleepingtime.org/)<br>
-    Predict the sleeping schedule of anyone on Twitter.
+    Predict the sleeping schedule of anyone/user on Twitter.
 * [Simple Twitter Profile Analyzer](https://github.com/x0rz/tweets_analyzer)<br>
-    This is a Python script.
+    a Python script for analyze twitter account.
 * [Tag Board](https://tagboard.com)<br>
-    Search for hashtags on Twitter, Facebook, and Google+.
+    Search for hashtags on Twitter, Facebook, or Google+.
 * [TINFOLEAK](https://tinfoleak.com)<br>
-    Get detailed information about any Twitter account and see what each account leaks.
+    For getting detailed information about any Twitter account and see what each account leaks.
     You need to supply your email address to receive the detailed report.
 * [Spoonbill](https://spoonbill.io)<br>
-    Monitor profile changes from the people you follow on Twitter
+    See & monitor profile changes from the people you follow on Twitter
 * [Export Tweet](https://www.exporttweet.com)<br>
-    This is an advanced Twitter analytical service; you can download the generated report for
-    offline usage. To unlock the full features, you need to pay
+    an advanced Twitter analytical service, you can download the generated report for
+    offline usage. Need to pay for use full feature
 
 ### Psychological Analysis
 * [Tone Analyzer](https://tone-analyzer-demo.mybluemix.net)
 * [IBM Watson Tone Analzer](https://www.ibm.com/watson/services/tone-analyzer/)
 * [Fake Sport](https://www.fakespot.com)<br>
     analyzes Amazon, Yelp, TripAdvisor, and Apple App store user 
-    reviews to check the credibility of them.
+    reviews to check the credibility $ psychological of them.
 * [Review Meta](https://reviewmeta.com)<br>
-    you can investigate user reviews on Amazon to check which one is likely to be fake or misleading.
+    Investigate user reviews on Amazon to check which one is likely fake or misleading.
 
 ## General Tools
 * [OSINT Recon Tool](https://recontool.org/#mindmap)
@@ -496,7 +467,7 @@ investigation efforts. Services:
 * [PhotoTracker Lite](https://chrome.google.com/webstore/detail/phototracker-lite/opadloaiiilnjibkfkopaokgfkhggjgb/related?hl=en-GB)<br>
     One click reverse image search
 * [VLC Video Downloader](https://chrome.google.com/webstore/detail/vlc-video-downloader/dhnkeanajeheaifbmgalejfoebggoggk/related?hl=en-GB)<br>
-     easily download online video file to PC or playlist and take it with yourself across the Web
+    easily download online video file to PC or playlist and take it with yourself across the Web
 
 ## Other Resources
 * [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit)
@@ -507,22 +478,21 @@ investigation efforts. Services:
 ## Pastebin
 * [pastebin](https://pastebin.com/trends)
 * [pastelert](https://andrewmohawk.com/pasteLert)<br>
-    This is a Pastebin alerting service dedicated to the Pastebin.com website
+    a Pastebin alerting service Pastebin.com website
 * [Custom pastebins search tool](https://inteltechniques.com/osint/menu.pastebins.html)<br>
-    This custom search page indexes 57 paste sites.
+    Custom search page indexes 57 paste sites.
 * [Dump Monitor](https://twitter.com/dumpmon)<br>
-    This is a Twitter account that monitors multiple paste sites for password dumps and
+    a Twitter account that monitors multiple paste sites in pastebin for password dumps and
     other sensitive information.
 
 
 ## People Search Engine
-Before starting  your search using these services, make sure if
-possible to prepare as much detail as you can about your target like:
+Prepare as much detail as you can about your target like:
 
-* Full name
+* Full name (Surename, Lastname)
 * Email, Phone number
 * Mailing address
-* Friends, exes, family members, study mates, business partners
+* Friends, family members, study mates, exes, business partners
 * Where they live or lived before (country, city, state)
 * Education history (school, university)
 * Age
@@ -530,13 +500,13 @@ possible to prepare as much detail as you can about your target like:
 ### Search Engine
 * [Webmii](https://webmii.com/)
 * [TruthFinder](https://www.truthfinder.com)<br>
-    is one of the most popular people search engines; it is a public search record
+    Most popular people search engines, it is a public search record
     that gives instant access to a wide set of personal information about anyone 
     living in the United States
 *  [411](https://www.411.co)<br>
     Only for US
 * [Pipl](https://pipl.com)<br>
-    is another popular people search engine that covers the entire world
+    Another popular people search engine that covers the entire world
 * [Spokeo](https://www.spokeo.com)<br>
     Only for US
 * [TruePeopleSearch](https://www.truepeoplesearch.com)<br>
